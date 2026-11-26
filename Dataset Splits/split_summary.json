@@ -1,0 +1,17 @@
+{
+    "random_state": 42,
+    "ratios": {
+        "train": 0.7,
+        "validation": 0.15,
+        "test": 0.15
+    },
+    "total_pairs": 6226,
+    "counts": {
+        "train": 4358,
+        "validation": 934,
+        "test": 934
+    },
+    "image_suffix": "_sat.jpg",
+    "mask_suffix": "_mask.png",
+    "mask_threshold": 128
+}
